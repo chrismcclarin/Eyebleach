@@ -1,15 +1,17 @@
 EyeBleach
+
 An app to show you amusing or cute images, gifs or videos, accompanied by some interesting facts to soothe your soul after a long day in the depths of the internet.
 
 Technologies Used:
-CSS3
-HTML5
-Javascript
-Jquery
-Google Fonts
-Catfacts API
-Cat Pics API
-Dog PIcs API
+
+1. CSS3
+2. HTML5
+3. Javascript
+4. Jquery
+5. Google Fonts
+6. Catfacts API
+7. Cat Pics API
+8. Dog PIcs API
 
 Screenshots:
 
