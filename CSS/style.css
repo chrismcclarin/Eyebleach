@@ -1,0 +1,44 @@
+body {
+    background-image: url("https://64.media.tumblr.com/tumblr_lv2rpl5L9I1qengqso1_500.gifv");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 100vh;
+    width: 100vw;
+}
+
+h1 {
+    font-family: 'Train One', cursive;
+    font-size: 200%;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+    
+}
+p {
+    font-family: 'Bubblegum Sans', cursive;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    color: white;
+    font-weight: 900;
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+
+}
+
+video {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%; 
+    z-index: -1;
+}
