@@ -15,13 +15,15 @@ Technologies Used:
 
 Screenshots:
 
+![Screen Shot](https://user-images.githubusercontent.com/95185347/146482261-d6dfa780-e4d3-4cec-8a0e-85b3ed5b477c.png)
 
-
+![Screenshot](https://user-images.githubusercontent.com/95185347/146482177-4ca57ce5-cea9-4da5-b291-6ff33300fe9e.png)
 
 
 
 Getting started:
 
+Go here https://chrismcclarin.github.io/Eyebleach/ to check it out!
 
 
 Future Enhancements
